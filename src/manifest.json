@@ -1,0 +1,9 @@
+{
+	"id": "paste-plaintext-hotkey",
+	"name": "Paste Plaintext",
+	"version": "0.1",
+	"minAppVersion": "1.6.7",
+	"description": "Plugin to let you paste plaintext at cursor position after setting hotkey",
+	"author": "cgraham149",
+	"isDesktopOnly": false
+}
